@@ -2,16 +2,15 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Coastal Flow Yoga
+email: hello@coastflow.yoga 
+description: "Culburra South Coast Yoga"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Emma Blanche 
   pic: 1
-  position: Lead Designer
+  position: Instructor 
   social:
     - title: twitter
       url: #
@@ -20,9 +19,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Odie 
   pic: 2
-  position: Lead Marketer
+  position: Spritual Guru 
   social:
     - title: twitter
       url: #
@@ -31,9 +30,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Finn Petersen 
   pic: 3
-  position: Lead Developer
+  position: Chaos Consultant 
   social:
     - title: twitter
       url: #
@@ -48,18 +47,17 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram 
+    url: http://instagram.com/coastflowyoga
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Somewhere Peaceful 
+  - line: Culburra Beach, NSW, 2000 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
